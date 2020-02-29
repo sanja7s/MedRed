@@ -1,7 +1,7 @@
 # Extracting Medical Entities from Social Media
 
 
-![Image description](figbwMODELNNNNbilstemcrf.jpg?raw=true "Title")
+![Model Diagram](fig/bwMODELNNNNbilstemcrf.jpg?raw=true "Model")
 
 ## Requirements
 ```bash
