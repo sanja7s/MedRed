@@ -1,7 +1,7 @@
 # Extracting Medical Entities from Social Media
 
 
-![Image description](https://storage.needpix.com/rsynced_images/health-3961686_1280.jpg)
+![Image description](figbwMODELNNNNbilstemcrf.jpg?raw=true "Title")
 
 ## Requirements
 ```bash
