@@ -1,6 +1,8 @@
 # Extracting Medical Entities from Social Media
 
 
+![Image description](https://storage.needpix.com/rsynced_images/health-3961686_1280.jpg)
+
 ## Requirements
 ```bash
 numpy
@@ -48,3 +50,5 @@ We use Flair library by Zalando Research.
 * `validation` contains the scripts for disease prediction on Reddit from the extracted posts.
 
 ## Licence
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
