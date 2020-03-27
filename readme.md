@@ -3,7 +3,7 @@
 
 ![Model Diagram](fig/bwMODELNNNNbilstemcrf.jpg?raw=true "Model")
 
-## Repostiory for the paper [Extracting Medical Entities from Social MEdia](https://dl.acm.org/doi/abs/10.1145/3368555.3384467)
+## Repostiory for the paper [Extracting Medical Entities from Social Media](https://dl.acm.org/doi/abs/10.1145/3368555.3384467)
 
 
 ## Requirements
@@ -18,11 +18,11 @@ xgboost
 sklearn
 ```
 
-In this project, we implemented a deep learning method for medical entity extraction (in the natural language processing terminology (NLP) -- this is called named entity recognition (NER)) from social media text. The method is based on the BiLSTM+CRF architecture using RoBERTa contextual embeddings in combination with GloVe word embeddings.
+In this project, we implemented a deep learning method for medical entity extraction from social media text. In the natural language processing terminology (NLP), this is called medical Named Entity Recognition (NER). The method is based on the BiLSTM+CRF deep learning architecture using RoBERTa contextual embeddings in combination with GloVe word embeddings.
 
-We also created a novel labelled dataset for medical entity extraction called MedRed (from Reddit). Then we evaluated the method on two existing datasets: CADEC (from AskAPatient) and Micromed (from Twitter), a well as on MedRed (from Reddit). 
+We also created a novel labelled dataset for medical entity extraction called [MedRed](https://doi.org/10.6084/m9.figshare.12039609.v1) (from Reddit). Then we evaluated the method on two existing datasets: CADEC (from AskAPatient) and Micromed (from Twitter), a well as on MedRed (from Reddit). 
 
-Finally, to validate the method on a large scale, we applied it on half a million Reddit posts from disease-specific subreddits (such as r/psoriasis and r/bpd). Then we studied how well the disease topic of each post can be predicted solely from the extracted entities.
+Finally, to validate the method on a large scale, we applied it on half a million Reddit posts from disease-specific subreddits (such as r/psoriasis and r/bpd). Then we shown that the disease topic of each post can be predicted with a high accurracy solely from the extracted medical entities by our method.
 
 
 ## Structure
