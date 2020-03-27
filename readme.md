@@ -32,13 +32,13 @@ Finally, to validate the method on a large scale, we applied it on half a millio
   * `evaluation` contains the scripts to evaluate the trained models on each of the 3 labelled datasets.
   * `validation` contains the scripts for applying the trained models on other datasets, and for disease prediction on Reddit from the extracted posts.
 
-2. `data` MedRed and Reddit can be downloaded from [FigShare](https://doi.org/10.6084/m9.figshare.12039609.v1). Others (i.e., CADEC and Micomed) are avilable from the respective publications.
+2. `data` MedRed and Reddit can be downloaded from [FigShare data](https://doi.org/10.6084/m9.figshare.12039609.v1). Others (i.e., CADEC and Micomed) are avilable from the respective publications.
   * `Reddit`
   * `CADEC` 
   * `Micromed`
   * `MedRed` 
 
-3. `resources` the resulting pretrained models can also be found on FigShare.
+3. `resources` the resulting pretrained models can also be found on [FigShare models](https://doi.org/10.6084/m9.figshare.12039933.v1).
   * `model`
   
 4. `results` running the scripts will save the results in these folders.
