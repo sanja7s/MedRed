@@ -5,9 +5,9 @@
 
 ## Repostiory for the paper [Extracting Medical Entities from Social Media](https://dl.acm.org/doi/abs/10.1145/3368555.3384467)
 
-The dataset released in this projeect is called MedRed and can be accessed on [FigShare](https://figshare.com/articles/dataset/MedRed/12039609/1). The resulting model from this project is called MedDL and can be accessed on a specific [GitHub repo](https://github.com/sanja7s/MED-DL).
+The dataset released in this project is called MedRed and can be accessed on [FigShare](https://figshare.com/articles/dataset/MedRed/12039609/1). The resulting model from this project is called MedDL and can be accessed on a specific [GitHub repo](https://github.com/sanja7s/MED-DL).
 
-More info on the [project on page](https://social-dynamics.net/MedDL).
+More info on the [project page](https://social-dynamics.net/MedDL).
 
 ## Requirements
 ```bash
